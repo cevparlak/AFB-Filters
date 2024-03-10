@@ -1,5 +1,5 @@
 # AFB-Filters
-Data files are available in the following GDrive site due to large size
+Data files are available in the following GDrive site due to large file sizes
 https://drive.google.com/drive/folders/1Z-TLT6mxJWTlo1w-oGh9ECcR3DwPrfNl?usp=sharing
 
 
